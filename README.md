@@ -17,7 +17,7 @@ https://github.com/Alexanderchen1001/Semester-Project.git
 <img width="761" alt="c0c9e550cf7c7e806043e41a2b7b875" src="https://github.com/Alexanderchen1001/Semester-Project/assets/142485960/265d8e77-ca42-4204-aca8-dc2e270dac1b">
 
 
-5. Create database shop_db by importing shop_db.sql
+5. Create database shop_db and import shop_db.sql
 <img width="871" alt="e7e7616c1ecdf8a381abc700bc92b73" src="https://github.com/Alexanderchen1001/Semester-Project/assets/142485960/e3947bc6-2ffd-48f2-a1cd-02f96da0d116">
 
 
