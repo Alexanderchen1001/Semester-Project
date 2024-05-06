@@ -26,6 +26,7 @@ https://github.com/Alexanderchen1001/Semester-Project.git
 
 7. Open add_product.php to test run this project.
  ![image](https://github.com/Alexanderchen1001/Semester-Project/assets/142485960/2971e6d4-4ef5-4da6-97e6-368eb20a9078)
+![image](https://github.com/Alexanderchen1001/Semester-Project/assets/142485960/397a33d8-1f80-4966-a2b1-d962e3badb15)
 
 <img width="920" alt="8f05aaa0c3ae298f46e4692caee6032" src="https://github.com/Alexanderchen1001/Semester-Project/assets/142485960/f2f0d967-f749-4654-9c5c-95f3f0e0cebe">
 
