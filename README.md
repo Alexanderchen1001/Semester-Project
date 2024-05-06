@@ -10,13 +10,17 @@ https://github.com/Alexanderchen1001/Semester-Project.git
 
 
 3. Open localhost in your browser by input "localhost/".
-<img width="469" alt="dffea7bc5560928919a9906d1665d27" src="https://github.com/Alexanderchen1001/CISC3003-Project-Part2/assets/142485960/348d4f19-3d67-4e02-8d5a-a857138a219e">
+<img width="469" alt="dffea7bc5560928919a9906d1665d27" src="https://github.com/Alexanderchen1001/Semester-Project/assets/142485960/2a35147d-f749-43f3-85b8-a127a1f44b72">
+
 
 4. Open phpMyAdmin in dashboard.
-<img width="761" alt="c0c9e550cf7c7e806043e41a2b7b875" src="https://github.com/Alexanderchen1001/CISC3003-Project-Part2/assets/142485960/cbfe5369-b393-47b9-8bd0-66968bfd9431">
+<img width="761" alt="c0c9e550cf7c7e806043e41a2b7b875" src="https://github.com/Alexanderchen1001/Semester-Project/assets/142485960/265d8e77-ca42-4204-aca8-dc2e270dac1b">
+
 
 5. Create database shop_db by importing shop_db.sql
-<img width="871" alt="e7e7616c1ecdf8a381abc700bc92b73" src="https://github.com/Alexanderchen1001/CISC3003-Project-Part2/assets/142485960/d04e83b5-f71a-4271-8a5e-51dc6a7bae90">
+<img width="871" alt="e7e7616c1ecdf8a381abc700bc92b73" src="https://github.com/Alexanderchen1001/Semester-Project/assets/142485960/e3947bc6-2ffd-48f2-a1cd-02f96da0d116">
+
 
 6. Open add_product.php to test run this project.
-<img width="920" alt="8f05aaa0c3ae298f46e4692caee6032" src="https://github.com/Alexanderchen1001/CISC3003-Project-Part2/assets/142485960/e913b557-2e3f-44df-bd3f-bec598ac9f79">
+<img width="920" alt="8f05aaa0c3ae298f46e4692caee6032" src="https://github.com/Alexanderchen1001/Semester-Project/assets/142485960/f2f0d967-f749-4654-9c5c-95f3f0e0cebe">
+
