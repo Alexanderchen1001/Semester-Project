@@ -2,10 +2,12 @@
 To set up this project.
 https://github.com/Alexanderchen1001/Semester-Project.git
 1. Open XAMPP and start Apache and SQL.
-<img width="512" alt="c7764e0a19cd00a904da74a2b7957f1" src="https://github.com/Alexanderchen1001/CISC3003-Project-Part2/assets/142485960/be119144-8f19-47ee-9158-a19a030c6c58">
+<img width="512" alt="c7764e0a19cd00a904da74a2b7957f1" src="https://github.com/Alexanderchen1001/Semester-Project/assets/142485960/7cde04fa-1c54-46d5-a9c5-d01a975d1921">
+
 
 2. Put project folder in hotdocs folder.
-![image](https://github.com/Alexanderchen1001/CISC3003-Project-Part2/assets/142485960/6a45d9e7-aaae-434c-b7fa-824dba373752)
+<img width="556" alt="6bc9c0a69796d89565a19fd6dbb3c82" src="https://github.com/Alexanderchen1001/Semester-Project/assets/142485960/bd2552ef-a691-4e3f-8382-a36970b10a09">
+
 
 3. Open localhost in your browser by input "localhost/".
 <img width="469" alt="dffea7bc5560928919a9906d1665d27" src="https://github.com/Alexanderchen1001/CISC3003-Project-Part2/assets/142485960/348d4f19-3d67-4e02-8d5a-a857138a219e">
