@@ -1,7 +1,7 @@
 # CISC3003-Project-Part2
 To set up this project.
 https://github.com/Alexanderchen1001/Semester-Project.git
-1. Open XAMPP and start Apache and SQL.
+1. Open XAMPP and start Apache and MYSQL.
 <img width="512" alt="c7764e0a19cd00a904da74a2b7957f1" src="https://github.com/Alexanderchen1001/Semester-Project/assets/142485960/7cde04fa-1c54-46d5-a9c5-d01a975d1921">
 
 
