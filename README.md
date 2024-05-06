@@ -20,7 +20,8 @@ https://github.com/Alexanderchen1001/Semester-Project.git
 5. Create database shop_db and import shop_db.sql
  <img width="458" alt="15373468df07f65a13efdef8e602acd" src="https://github.com/Alexanderchen1001/Semester-Project/assets/142485960/ac61430f-fa50-4778-8b70-1ec04911f065">
 
-<img width="871" alt="e7e7616c1ecdf8a381abc700bc92b73" src="https://github.com/Alexanderchen1001/Semester-Project/assets/142485960/e3947bc6-2ffd-48f2-a1cd-02f96da0d116">
+<img width="591" alt="3b2249806739ac4aef376bba22f771d" src="https://github.com/Alexanderchen1001/Semester-Project/assets/142485960/7237fed7-c365-461c-861b-16ec4a206571">
+
 
 
 7. Open add_product.php to test run this project.
